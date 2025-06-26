@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Fran
+# Hey, I'm Fran!
 
-I'm passionate about data and personal growth. I'm currently on a self-taught journey to become a **Data Engineer**, focusing on building data pipelines, automation, and working with large-scale datasets efficiently.
+I'm passionate about data. I'm currently on a self-taught journey to become a **Data Engineer**, focusing on building data pipelines, automation, and working with large-scale datasets efficiently.
 
 Right now, I'm deepening my technical skills by building real-world projects that combine data engineering and analytics.
 
