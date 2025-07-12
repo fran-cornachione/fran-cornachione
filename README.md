@@ -34,8 +34,7 @@ Right now, I'm deepening my technical skills by building real-world projects tha
 ## 📌 Featured Projects
 
 🔹 *Spotify ETL + Power BI Dashboard*  
-https://github.com/fran-cornachione/Spotify-ETL-Power-Bi-Dashboard
---- Coming Soon ---
+
 
 ## 📫 Get in touch
 
