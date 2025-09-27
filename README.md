@@ -7,7 +7,7 @@ Currently focusing on **Data Engineering** and **Data Analitics**.
 
 ## Projects
 Here are some things I’ve been working on:
-- [**ELT Pipeline with Polars**](https://github.com/fran-cornachione/DATABRICKS-AWS-ETL) – Generated synthetic data with Faker, transformed using Polars, and loaded into Postgres, with analytical-ready formats for testing pipelines and performance benchmarking.
+- [**Multiple Source ELT with Polars**](https://github.com/fran-cornachione/Multiple_Source_ETL) – Generated synthetic data with Faker, transformed using Polars, and loaded into Postgres, with analytical-ready formats for testing pipelines and performance benchmarking.
 - [**ETL Pipeline with Databricks + S3**](https://github.com/fran-cornachione/DATABRICKS-AWS-ETL) – ETL pipeline built on Databricks, with PySpark for transformations. Stored into AWS S3 as Delta Format. Managed credentials securely with Databricks Secrets.
 - [**Spotify ETL + Dashboard**](https://github.com/fran-cornachione/SpotifyETL) – Extracted data from my playlists using Spotify-API, and generated interactive dashboards using Streamlit.
 
